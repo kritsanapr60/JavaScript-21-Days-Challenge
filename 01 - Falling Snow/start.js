@@ -43,7 +43,7 @@
         };
     }
 
-    function createSnowBallMover(canvas) {
+    function createSnowBallMover(canvas) { //สร้างหิมะ
         return snowBall => {
             snowBall.x += snowBall.speedX;
             snowBall.y += snowBall.speedY;
