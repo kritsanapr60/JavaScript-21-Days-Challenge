@@ -6,7 +6,7 @@
 
 - [x] Falling Snow
 - [x] Countdown Timer
-- [ ] Async Await
+- [x] Async Await
 - [ ] Eye Rolling
 - [ ] Watercolor Painting
 - [ ] Duck Hunt
