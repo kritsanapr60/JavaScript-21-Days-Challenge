@@ -7,7 +7,7 @@
 - [x] Falling Snow
 - [x] Countdown Timer
 - [x] Async Await
-- [ ] Eye Rolling
+- [x] Eye Rolling
 - [ ] Watercolor Painting
 - [ ] Duck Hunt
 - [ ] Konami Code
